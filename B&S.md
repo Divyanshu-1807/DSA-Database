@@ -11,5 +11,12 @@ Find the maximum profit you can achieve. You may complete at most two transactio
 - `0 <= prices[i] <= 10^5`
 
 ### Example:
-- **Input:** `prices = [3, 3, 5, 0, 0, 3, 1, 4]`
-- **Output:** `6`
+**Input:** 
+```plaintext
+prices = [3, 3, 5, 0, 0, 3, 1, 4]
+```
+
+**Output:** 
+```plaintext
+6
+```
