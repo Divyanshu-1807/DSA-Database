@@ -15,6 +15,7 @@ The island doesn't have "lakes," meaning the water inside isn't connected to the
 - There is exactly one island in the grid.
 
 ## Example
+![](example_island.png)
 **Input:**
 ```plaintext
 grid = [[0,1,0,0],
@@ -26,3 +27,5 @@ grid = [[0,1,0,0],
 ```plaintext
 16
 ```
+#### Explanation:
+The perimeter is the 16 yellow stripes in the image above.
