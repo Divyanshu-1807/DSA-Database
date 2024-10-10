@@ -32,3 +32,5 @@ image = [[0,0,0],[0,0,0]], sr = 0, sc = 0, color = 0
 ```plaintext
 [[0,0,0],[0,0,0]]
 ```
+### Explanation:
+![Explaination](explain.jpg)
