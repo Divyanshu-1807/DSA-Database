@@ -17,8 +17,12 @@ An input string is valid if:
 
 ## Example
 
-**Input:**  
-`s = "()"`
+**Input:** 
+```bash
+s = "()"
+```
 
 **Output:**  
-`true`
+```bash
+true
+```
