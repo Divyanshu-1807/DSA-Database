@@ -11,7 +11,11 @@ You are given an integer array `nums`. You are initially positioned at the array
 ### Example:
 
 **Input:**  
-`nums = [2, 3, 1, 1, 4]`
+```plaintext
+nums = [2, 3, 1, 1, 4]
+```
 
 **Output:**  
-`true`
+```plaintext
+true
+```
