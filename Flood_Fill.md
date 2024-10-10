@@ -1,8 +1,8 @@
-# Flood Fill Problem
+## Flood Fill Problem
 
 You are given an image represented by an `m x n` grid of integers `image`, where `image[i][j]` represents the pixel value of the image. You are also given three integers `sr`, `sc`, and `color`. Your task is to perform a flood fill on the image starting from the pixel `image[sr][sc]`.
 
-## Problem Description
+### Problem Description
 
 To perform a flood fill:
 
@@ -13,7 +13,7 @@ To perform a flood fill:
 
 Return the modified image after performing the flood fill.
 
-## Constraints
+### Constraints
 
 - `m == image.length`
 - `n == image[i].length`
@@ -22,15 +22,15 @@ Return the modified image after performing the flood fill.
 - `0 <= sr < m`
 - `0 <= sc < n`
 
-## Example
+### Example
 
-### Input
+#### Input
 ```plaintext
 image = [[0,0,0],[0,0,0]], sr = 0, sc = 0, color = 0
 ```
-### Output
+#### Output
 ```plaintext
 [[0,0,0],[0,0,0]]
 ```
-### Explanation:
+#### Explanation:
 ![Explaination](explain.jpg)
