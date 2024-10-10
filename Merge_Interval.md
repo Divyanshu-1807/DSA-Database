@@ -11,10 +11,10 @@ Given an array of intervals where `intervals[i] = [starti, endi]`, merge all ove
 ### Example:
 
 #### Input:
-```python
+```bash
 intervals = [[1,3],[2,6],[8,10],[15,18]]
 ```
 #### Output:
-```python
+```bash
 [[1,6],[8,10],[15,18]]
 ```
