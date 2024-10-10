@@ -9,7 +9,11 @@ Given the two integers `m` and `n`, return the number of possible unique paths t
 
 ## Example
 **Input:**  
-`m = 3, n = 7`
+```plaintext
+m = 3, n = 7
+```
 
 **Output:**  
-`28`
+```plaintext
+28
+```
