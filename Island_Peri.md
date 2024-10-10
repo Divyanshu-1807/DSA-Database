@@ -15,7 +15,7 @@ The island doesn't have "lakes," meaning the water inside isn't connected to the
 - There is exactly one island in the grid.
 
 ### Example
-![](example_island.png)
+![](island.png)
 
 **Input:**
 ```plaintext
