@@ -18,11 +18,11 @@ An input string is valid if:
 ## Example
 
 **Input:** 
-```bash
+```plaintext
 s = "()"
 ```
 
 **Output:**  
-```bash
+```plaintext
 true
 ```
