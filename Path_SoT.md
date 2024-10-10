@@ -24,7 +24,7 @@ The graph is represented as: `graph[i]` is a list of all nodes you can visit fro
 ```plaintext
  [[0,4],[0,3,4],[0,1,3,4],[0,1,2,3,4],[0,1,4]]
 ```
-### Explanation:
+#### Explanation:
 The input graph has `n = 5` nodes (from 0 to 4). The edges in the graph are represented by the adjacency list:
 - Node `0` has directed edges to nodes `[4, 3, 1]`
 - Node `1` has directed edges to nodes `[3, 2, 4]`
