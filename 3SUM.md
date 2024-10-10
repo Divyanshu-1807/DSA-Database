@@ -20,7 +20,7 @@ nums = [-1, 0, 1, 2, -1, -4]
 ```bash
 [[-1,-1,2],[-1,0,1]]
 ```
-### Explanation:
+#### Explanation:
 - nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
 - nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
 - nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
