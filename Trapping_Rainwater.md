@@ -1,15 +1,15 @@
 ## Trapping Rain Water
 
-### Problem Statement
+### Problem Statement:
 
 Given `n` non-negative integers representing an elevation map where the width of each bar is 1, compute how much water can be trapped after raining.
 
-### Constraints
+### Constraints:
 - `n == height.length`
 - `1 <= n <= 2 * 10^4`
 - `0 <= height[i] <= 10^5`
 
-### Example
+### Example:
 ![](rainwater.png)
 
 **Input:** 
