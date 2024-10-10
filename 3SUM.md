@@ -16,9 +16,3 @@ Notice that the solution set must **not contain duplicate triplets**.
 #### Input:
 ```bash
 nums = [-1, 0, 1, 2, -1, -4]
-
-#### Output:
-```bash
-[[-1,-1,2],[-1,0,1]]
-
-
