@@ -21,5 +21,5 @@ wordDict = ["leet", "code"]
 ```
 **Output:**
 ```plaintext
-truec
+true
 ```
