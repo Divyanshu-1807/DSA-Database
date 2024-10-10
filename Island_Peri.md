@@ -28,5 +28,4 @@ grid = [[0,1,0,0],
 ```plaintext
 16
 ```
-#### Explanation:
-The perimeter is the 16 yellow stripes in the image above.
+**Explanation**: The perimeter is the 16 yellow stripes in the image above.
