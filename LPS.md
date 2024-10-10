@@ -1,13 +1,13 @@
 ## Longest Palindromic Substring
 
-### Problem Statement
+### Problem Statement:
 Given a string `s`, return the **longest palindromic substring** in `s`.
 
-### Constraints
+### Constraints:
 - `1 <= s.length <= 1000`
 - `s` consists of only **digits** and **English letters**.
 
-### Example
+### Example:
 
 **Input:**
 ```plaintext
