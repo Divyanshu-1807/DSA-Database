@@ -16,6 +16,7 @@ A **valid BST** is defined as follows:
 
 ### Example:
 ![](Tree.jpg)
+
 **Input**: 
 ```plaintext
 root = [2,1,3]
