@@ -15,7 +15,7 @@ A **valid BST** is defined as follows:
 - `-2^31 <= Node.val <= 2^31 - 1`
 
 ### Example:
-![](Tree.jpg)
+![](tree.jpg)
 
 **Input**: 
 ```plaintext
