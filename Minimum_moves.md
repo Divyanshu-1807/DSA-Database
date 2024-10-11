@@ -1,4 +1,4 @@
-# Minimum Moves to Reach Target Score
+## Minimum Moves to Reach Target Score
 
 ### Problem Statement:
 You are playing a game with integers. You start with the integer `1` and you want to reach the integer `target`.
