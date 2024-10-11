@@ -9,9 +9,9 @@ Do not modify the linked list.
  
 ### Constraints:
 
-The number of the nodes in the list is in the range [0, 104].
--10^5 <= Node.val <= 10^5
-pos is -1 or a valid index in the linked-list.
+- The number of the nodes in the list is in the range [0, 104].
+- -10^5 <= Node.val <= 10^5
+- pos is -1 or a valid index in the linked-list.
  
 
 ### Example :
@@ -24,5 +24,4 @@ head = [3,2,0,-4], pos = 1
 ```plaintext
 tail connects to node index 1
 ```
-#### Explanation: 
-There is a cycle in the linked list, where tail connects to the second node.
+**Explanation**: There is a cycle in the linked list, where tail connects to the second node.
