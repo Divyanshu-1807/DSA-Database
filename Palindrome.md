@@ -5,7 +5,7 @@ Given a string `s`, partition `s` such that every substring of the partition is 
 Return all possible palindrome partitionings of `s`.
 
 ### Constraints:
-- 1 <= s.length <= 16
+- `1 <= s.length <= 16`
 - `s` contains only lowercase English letters.
 
 ### Example:
