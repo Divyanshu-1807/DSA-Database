@@ -17,7 +17,7 @@ Your task is to return an edge that can be removed so that the resulting graph i
 - The given graph is connected.
 
 ### Example:
-![](redundant-graph.jpg)
+![](reduntant-graph.jpg)
 
 #### Input:
 ```bash
