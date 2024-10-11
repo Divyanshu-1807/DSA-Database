@@ -34,9 +34,13 @@ The inputs to the judge are given as follows (your program is not given these in
 ### Example :
 ![](ll2.png)
 #### Input: 
+```plaintext
 intersectVal = 2, listA = [1,9,1,2,4], listB = [3,2,4], skipA = 3, skipB = 1
+```
 #### Output: 
+```plaintext
 Intersected at '2'
+```
 ##### Explanation: 
 - The intersected node's value is 2 (note that this must not be 0 if the two lists intersect).
 - From the head of A, it reads as [1,9,1,2,4]. From the head of B, it reads as [3,2,4]. 
