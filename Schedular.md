@@ -22,6 +22,7 @@ tasks = ["A","A","A","B","B","B"], n = 2
 ```
 #### Explanation:
 A possible sequence is: A -> B -> idle -> A -> B -> idle -> A -> B.
+
 After completing task A, you must wait two intervals before doing A again.
 The same applies to task B. In the 3rd interval, neither A nor B can be done, so you idle. 
 By the 4th interval, you can do A again as 2 intervals have passed.
