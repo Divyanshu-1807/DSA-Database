@@ -24,7 +24,4 @@ root = [3, 5, 1, 6, 2, 0, 8, null, null, 7, 4], p = 5, q = 1
 ```plaintext
 5
 ```
-#### Explanation:
-```plaintext
-The LCA of nodes 5 and 4 is 5, since a node can be a descendant of itself according to the LCA definition.
-```
+**Explanation:** The LCA of nodes 5 and 4 is 5, since a node can be a descendant of itself according to the LCA definition.
